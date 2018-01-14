@@ -14,5 +14,7 @@ public class Client
 		l.fatal("This is a fatal message");
 
 		System.out.println("Your logic executed successfully....");
+		System.out.println("Your logic executed successfully....");
+		
 	}
 }
